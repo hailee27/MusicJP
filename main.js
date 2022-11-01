@@ -60,6 +60,12 @@ const songs = [
             singer: 'Porter Robinson & Madeon ',
             path: 'music/song9.mp3',
             image: 'img/song9.jpg'
+        },
+            {   
+            name: 'In The Shadow Of The Sun ',
+            singer: '(Original Mix) - Professor Green',
+            path: 'music/In The Shadow Of The Sun (Original Mix) - Professor Green - 全网热播BGM - 抖音 - Nhạc Nền Hot TikTok 2022.mp3',
+            image: 'img/song9.jpg'
         }
     ]
 //Khai bao bien    
